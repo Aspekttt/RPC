@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/discordjs/RPC)](https://repl.it/github/discordjs/RPC)
 <div align="center">
   <br />
   <p>
